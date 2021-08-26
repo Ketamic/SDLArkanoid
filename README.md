@@ -1,2 +1,2 @@
 # SDLArkanoid
-A simple arkanoid clone in C++
+A simple arkanoid clone in C++ and SDL2
